@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54d6f089-b767-43e7-844d-4957af4dc9ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javascript /data_types.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript /data_types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javascript /findbyclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript /findbyclass.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javascript /index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript /index.html" afterDir="false" />
@@ -58,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -121,7 +123,7 @@
       <updated>1762923301751</updated>
       <workItem from="1762923302705" duration="6140000" />
       <workItem from="1763044599539" duration="6000" />
-      <workItem from="1764135973785" duration="385000" />
+      <workItem from="1764135973785" duration="637000" />
     </task>
     <servers />
   </component>
